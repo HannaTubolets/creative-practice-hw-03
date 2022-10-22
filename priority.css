@@ -211,7 +211,7 @@ figcaption {
     -moz-transition: all 0.4s ease-in;
     position: fixed;
     bottom: 50px;
-    right: 0;
+    right: 40px;
     background-color: #FFFFFF;
     color: #266C9E;
     text-align: center;
